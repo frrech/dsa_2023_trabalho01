@@ -1,0 +1,22 @@
+{
+  "name": "trab_01",
+  "version": "1.0.0",
+  "description": "Trabalho de DSA - 2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frrech/dsa_2023_trabalho01.git"
+  },
+  "keywords": [
+    "assignment"
+  ],
+  "author": "Francisco Ibargoyen Rech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frrech/dsa_2023_trabalho01/issues"
+  },
+  "homepage": "https://github.com/frrech/dsa_2023_trabalho01#readme"
+}
